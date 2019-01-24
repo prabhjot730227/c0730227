@@ -20,7 +20,7 @@ namespace c0730227
             }
             else
             {
-                Console.WriteLine("Promoted to Level 2");
+                 Console.WriteLine("Promoted to Level 2");
             }
         }
         public int CalculateRating()
